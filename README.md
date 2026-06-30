@@ -35,7 +35,7 @@ If you want to unblock global streaming media (Netflix, Disney+, YouTube Premium
 
 #### Download Kite VPN
 Unlock global content instantly:
-- **Official Website**: [KiteVPN](http://kitevip.vip)
+- **Official Website**: [KiteVPN](https://kitevip.vip?f=github)
 - Support for iOS, Android, macOS, and Windows with a single account.
 
 ---
@@ -71,7 +71,7 @@ Unlock global content instantly:
 
 #### 立即下载 Kite VPN
 一键解锁全球数字内容：
-- **官方网站**：[KiteVPN](http://kitevip.vip)
+- **官方网站**：[KiteVPN](https://kitevip.vip?f=github)
 - 完美支持 iOS、Android、macOS 和 Windows，一个账号，全家共享。
 
 ---
@@ -107,5 +107,5 @@ Unlock global content instantly:
 
 #### Скачать Kite VPN
 Получите мгновенный доступ к мировому контенту:
-- **Наш сайт**: [KiteVPN](http://kitevip.vip)
+- **Наш сайт**: [KiteVPN](https://kitevip.vip?f=github)
 - Удобные приложения для iOS, Android, macOS и Windows.
